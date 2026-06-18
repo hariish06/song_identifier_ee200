@@ -1,6 +1,0 @@
-streamlit
-librosa
-numpy
-pandas
-scipy
-matplotlib
